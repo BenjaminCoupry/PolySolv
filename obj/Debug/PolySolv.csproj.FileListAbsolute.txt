@@ -1,0 +1,7 @@
+C:\Users\benja\source\repos\PolySolv\PolySolv\bin\Debug\PolySolv.exe.config
+C:\Users\benja\source\repos\PolySolv\PolySolv\bin\Debug\PolySolv.exe
+C:\Users\benja\source\repos\PolySolv\PolySolv\bin\Debug\PolySolv.pdb
+C:\Users\benja\source\repos\PolySolv\PolySolv\obj\Debug\PolySolv.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\PolySolv\PolySolv\obj\Debug\PolySolv.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\PolySolv\PolySolv\obj\Debug\PolySolv.exe
+C:\Users\benja\source\repos\PolySolv\PolySolv\obj\Debug\PolySolv.pdb
